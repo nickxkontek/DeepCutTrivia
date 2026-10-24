@@ -4,10 +4,10 @@
 actually does as built; it isn't legal advice. If your situation is unusual (for example you add analytics, ads or
 accounts later), update it.*
 
-**Last updated:** [date]
-**Contact:** [your email address]
+**Last updated:** [10/24/2026]
+**Contact:** [nick.x.kontek@outlook.com]
 
-Deep Cut Trivia ("the app") is made by [your name]. This policy explains what information the app uses and why.
+Deep Cut Trivia ("the app") is made by [Nick Kontek]. This policy explains what information the app uses and why.
 
 ## The short version
 
